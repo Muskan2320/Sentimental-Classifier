@@ -13,7 +13,7 @@ This project demonstrates a full AI workflow: training a DistilBERT model on IMD
 * Serves predictions via FastAPI
 * Dockerized for production-ready deployment
 * Includes simple browser-based UI to test the API
-
+ 
 ---
 
 ## 🧠 Tech Stack
