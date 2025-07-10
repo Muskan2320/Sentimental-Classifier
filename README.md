@@ -31,11 +31,14 @@ This project demonstrates a full AI workflow: training a DistilBERT model on IMD
 
 ```
 ├── tokenizer/              # Saved tokenizer files
+├── model_utils.py
+├── predict_utils.py
 ├── main.py                 # FastAPI API for inference
 ├── train_and_save.py       # Script to train and save model/tokenizer
 ├── requirements.txt
 ├── Dockerfile
-├── index.html              # Simple browser UI
+├── static/
+│   └── index.html              # Simple browser UI
 └── README.md
 ```
 
