@@ -55,6 +55,7 @@ python train_and_save.py
 * Downloads IMDB dataset
 * Fine-tunes DistilBERT for 1 epoch on 10k samples
 * Saves `sentiment_model.pt` and tokenizer
+* Model saved to Hugging face spaces and loaded at runtime
 
 ### 🔹 2. Serve with FastAPI
 
