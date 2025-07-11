@@ -1,7 +1,5 @@
 results/
-tokenizer/
 sentiment-model/
-transformers/
 __pycache__/
 *.ipynb
 *.pt
